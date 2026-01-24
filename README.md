@@ -243,7 +243,7 @@ MIT License - feel free to use for your own projects!
 
 ## 🙏 Acknowledgments
 
-Built with ❤️ as a premium internship submission demonstrating:
+Built as an internship submission demonstrating:
 - Modern React patterns and best practices
 - Production-grade backend architecture
 - Stunning UI/UX with attention to detail
