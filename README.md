@@ -2,7 +2,7 @@
 
 A full-stack task-management web app (MERN-style): a React single-page client with a dark/light theme and animated UI, backed by an Express + MongoDB REST API with JWT authentication. It was built as a frontend-developer assignment ("scalable web app with auth and dashboard").
 
-> **Status:** a complete-looking small project, but it has not been run or tested as part of this write-up. Everything below describes what the source implements. There are no automated tests.
+> **Status:** a small, complete project. This README describes what the source implements; there are no automated tests, and runtime behaviour has not been formally verified.
 
 ## Overview
 
